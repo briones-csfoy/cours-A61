@@ -10,7 +10,7 @@ import logging
 
 
 _logger = logging.getLogger(__name__)
-#_logger = logging.getLogger("regression_model")
+
 
 def run_training() -> None:
     """Train the model."""
